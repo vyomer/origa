@@ -1,0 +1,58 @@
+.menu{
+    display:flex;
+    justify-content: space-betwenn;
+    background-attachment: #000000 ;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+body{
+    margin: 0px;
+    background-color: #f7f2f2;
+}
+
+.Origami{
+    margin: 25px;
+    padding: 40px;
+    background-color: coral;
+    border-color: cornflowerblue;
+    border: solid;
+}
+
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+
+.grid{
+    border-color: aquamarine;
+    border-color: blueviolet;
+}
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: cyan;
+}
+
+.Origami:hover{
+    transform: scale(1.2);
+}
+a{
+    text-decoration: none;
+}
+
+.Origami img{
+    position: absolute;
+    border-color: darkblue;
+}
+
+.Origami p{
+    position: relative;
+    top: 20%;
+}
